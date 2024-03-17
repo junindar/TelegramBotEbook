@@ -31,5 +31,5 @@ Repository ini berisi contoh-contoh kode yang telah dibahas pada buku tersebut.
 
 #### Selamat Mencoba!
 
-#### Buku ini dapat diunduh di [Named Link](https://play.google.com/store/books/details/Junindar_Tasripin_Telegram_ChatBot_Belajar_Membang?id=Xc73EAAAQBAJ "SINI") 
+#### Buku ini dapat diunduh di [SINI](https://play.google.com/store/books/details/Junindar_Tasripin_Telegram_ChatBot_Belajar_Membang?id=Xc73EAAAQBAJ "Google Play Book: Belajar Membangun Chatbot dengan .NET 8 dan Visual Studio 2022") 
 
