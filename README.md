@@ -3,12 +3,12 @@
 Buku ini membahas bagaimana membangun aplikasi ChatBot dengan menggunakan Telegram.Bot Library dan C# sebagai Bahasa pemogramannya. Penjelasan meliputi dari awal dimulai dari pengenalan Telegram ChatBot, Telegram.Bot Library, TelegramBot Framework dan bagaimana cara berkomunikasi dengan beberapa Azure Service, Seperti Azure AI Translator dan Azure Open AI.
 
 Pada buku ini membahas topik-topik berikut ini:
-PENGENALAN TELEGRAM BOT	
-1.1 MEMBUAT BOT PADA TELEGRAM	
-1.2 PENGENALAN TELEGRAM.BOT LIBRARY	
-MENGIRIM PESAN DENGAN TELEGRAM.BOT	
-2.1 PESAN TEXT	
-2.2 PESAN PHOTO	
+* PENGENALAN TELEGRAM BOT	
+  * 1.1 MEMBUAT BOT PADA TELEGRAM	
+  * 1.2 PENGENALAN TELEGRAM.BOT LIBRARY	
+* MENGIRIM PESAN DENGAN TELEGRAM.BOT	
+  * 2.1 PESAN TEXT	
+  * 2.2 PESAN PHOTO	
 2.3 PESAN STICKER	
 2.4 PESAN AUDIO DAN SUARA	
 2.5 PESAN VIDEO	
