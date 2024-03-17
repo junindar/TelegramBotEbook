@@ -28,6 +28,8 @@ Pada buku ini membahas topik-topik berikut ini:
  * 4.2 TELEGRAMBOT DAN AZURE OPEN AI	
 
 Repository ini berisi contoh-contoh kode yang telah dibahas pada buku tersebut.
-Selamat Mencoba!
 
+#### Selamat Mencoba!
+
+#### Buku ini dapat diunduh di <a href="https://play.google.com/store/books/details/Junindar_Tasripin_Telegram_ChatBot_Belajar_Membang?id=Xc73EAAAQBAJ"SINI</a>
 
