@@ -31,5 +31,5 @@ Repository ini berisi contoh-contoh kode yang telah dibahas pada buku tersebut.
 
 #### Selamat Mencoba!
 
-#### Buku ini dapat diunduh di <a href="https://play.google.com/store/books/details/Junindar_Tasripin_Telegram_ChatBot_Belajar_Membang?id=Xc73EAAAQBAJ"SINI</a>
+#### Buku ini dapat diunduh di [Named Link](https://play.google.com/store/books/details/Junindar_Tasripin_Telegram_ChatBot_Belajar_Membang?id=Xc73EAAAQBAJ "SINI") 
 
